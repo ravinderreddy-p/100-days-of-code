@@ -24,3 +24,14 @@ Day 4 : November 2, 2018.
 Today's Progress: Completed practice coding on HTML and CSS.
 
 Thoughts : I successfully completed practice course on HTML and CSS. Tomorrow, I will start working on Tribute page as 1st project.
+
+Day 5 : November 4, 2018.
+
+Today's Progress: I started working on Tribute page from FCC.
+Thoughts: I am planning to complete this project in 5 hours of time.
+
+Day 6: November 5, 2018.
+
+Today's Progress: Continue working on Tribute page.
+
+Thoughts: Exploring more options using Bootstrap and JQuery but later realize to use only with HTML and CSS.
